@@ -1,0 +1,222 @@
+{
+ "预防": {
+  "subject_type": "疾病",
+  "predicate": "预防",
+  "object_type": "其他"
+ },
+ "阶段": {
+  "subject_type": "疾病",
+  "predicate": "阶段",
+  "object_type": "其他"
+ },
+ "就诊科室": {
+  "subject_type": "疾病",
+  "predicate": "就诊科室",
+  "object_type": "其他"
+ },
+ "同义词": {
+  "subject_type": "部位",
+  "predicate": "同义词",
+  "object_type": "部位"
+ },
+ "辅助治疗": {
+  "subject_type": "疾病",
+  "predicate": "辅助治疗",
+  "object_type": "其他治疗"
+ },
+ "化疗": {
+  "subject_type": "疾病",
+  "predicate": "化疗",
+  "object_type": "其他治疗"
+ },
+ "放射治疗": {
+  "subject_type": "疾病",
+  "predicate": "放射治疗",
+  "object_type": "其他治疗"
+ },
+ "手术治疗": {
+  "subject_type": "疾病",
+  "predicate": "手术治疗",
+  "object_type": "手术治疗"
+ },
+ "实验室检查": {
+  "subject_type": "疾病",
+  "predicate": "实验室检查",
+  "object_type": "检查"
+ },
+ "影像学检查": {
+  "subject_type": "疾病",
+  "predicate": "影像学检查",
+  "object_type": "检查"
+ },
+ "辅助检查": {
+  "subject_type": "疾病",
+  "predicate": "辅助检查",
+  "object_type": "检查"
+ },
+ "组织学检查": {
+  "subject_type": "疾病",
+  "predicate": "组织学检查",
+  "object_type": "检查"
+ },
+ "内窥镜检查": {
+  "subject_type": "疾病",
+  "predicate": "内窥镜检查",
+  "object_type": "检查"
+ },
+ "筛查": {
+  "subject_type": "疾病",
+  "predicate": "筛查",
+  "object_type": "检查"
+ },
+ "多发群体": {
+  "subject_type": "疾病",
+  "predicate": "多发群体",
+  "object_type": "流行病学"
+ },
+ "发病率": {
+  "subject_type": "疾病",
+  "predicate": "发病率",
+  "object_type": "流行病学"
+ },
+ "发病年龄": {
+  "subject_type": "疾病",
+  "predicate": "发病年龄",
+  "object_type": "流行病学"
+ },
+ "多发地区": {
+  "subject_type": "疾病",
+  "predicate": "多发地区",
+  "object_type": "流行病学"
+ },
+ "发病性别倾向": {
+  "subject_type": "疾病",
+  "predicate": "发病性别倾向",
+  "object_type": "流行病学"
+ },
+ "死亡率": {
+  "subject_type": "疾病",
+  "predicate": "死亡率",
+  "object_type": "流行病学"
+ },
+ "多发季节": {
+  "subject_type": "疾病",
+  "predicate": "多发季节",
+  "object_type": "流行病学"
+ },
+ "传播途径": {
+  "subject_type": "疾病",
+  "predicate": "传播途径",
+  "object_type": "流行病学"
+ },
+ "并发症": {
+  "subject_type": "疾病",
+  "predicate": "并发症",
+  "object_type": "疾病"
+ },
+ "病理分型": {
+  "subject_type": "疾病",
+  "predicate": "病理分型",
+  "object_type": "疾病"
+ },
+ "相关（导致）": {
+  "subject_type": "疾病",
+  "predicate": "相关（导致）",
+  "object_type": "疾病"
+ },
+ "鉴别诊断": {
+  "subject_type": "疾病",
+  "predicate": "鉴别诊断",
+  "object_type": "疾病"
+ },
+ "相关（转化）": {
+  "subject_type": "疾病",
+  "predicate": "相关（转化）",
+  "object_type": "疾病"
+ },
+ "相关（症状）": {
+  "subject_type": "疾病",
+  "predicate": "相关（症状）",
+  "object_type": "疾病"
+ },
+ "临床表现": {
+  "subject_type": "疾病",
+  "predicate": "临床表现",
+  "object_type": "症状"
+ },
+ "治疗后症状": {
+  "subject_type": "疾病",
+  "predicate": "治疗后症状",
+  "object_type": "症状"
+ },
+ "侵及周围组织转移的症状": {
+  "subject_type": "疾病",
+  "predicate": "侵及周围组织转移的症状",
+  "object_type": "症状"
+ },
+ "病因": {
+  "subject_type": "疾病",
+  "predicate": "病因",
+  "object_type": "社会学"
+ },
+ "高危因素": {
+  "subject_type": "疾病",
+  "predicate": "高危因素",
+  "object_type": "社会学"
+ },
+ "风险评估因素": {
+  "subject_type": "疾病",
+  "predicate": "风险评估因素",
+  "object_type": "社会学"
+ },
+ "病史": {
+  "subject_type": "疾病",
+  "predicate": "病史",
+  "object_type": "社会学"
+ },
+ "遗传因素": {
+  "subject_type": "疾病",
+  "predicate": "遗传因素",
+  "object_type": "社会学"
+ },
+ "发病机制": {
+  "subject_type": "疾病",
+  "predicate": "发病机制",
+  "object_type": "社会学"
+ },
+ "病理生理": {
+  "subject_type": "疾病",
+  "predicate": "病理生理",
+  "object_type": "社会学"
+ },
+ "药物治疗": {
+  "subject_type": "疾病",
+  "predicate": "药物治疗",
+  "object_type": "药物"
+ },
+ "发病部位": {
+  "subject_type": "疾病",
+  "predicate": "发病部位",
+  "object_type": "部位"
+ },
+ "转移部位": {
+  "subject_type": "疾病",
+  "predicate": "转移部位",
+  "object_type": "部位"
+ },
+ "外侵部位": {
+  "subject_type": "疾病",
+  "predicate": "外侵部位",
+  "object_type": "部位"
+ },
+ "预后状况": {
+  "subject_type": "疾病",
+  "predicate": "预后状况",
+  "object_type": "预后"
+ },
+ "预后生存率": {
+  "subject_type": "疾病",
+  "predicate": "预后生存率",
+  "object_type": "预后"
+ }
+}

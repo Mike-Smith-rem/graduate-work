@@ -1,0 +1,698 @@
+{
+ "version": {
+  "json_export": "185",
+  "page_segmentation": "5",
+  "schema": "1.1.0",
+  "structure": "1.1022.0",
+  "table_structure": "5"
+ },
+ "extended_metadata": {
+  "ID_instance": "8A 2F 06 83 18 B7 B2 11 0A 00 67 45 8B 6B C6 23 ",
+  "ID_permanent": "35 41 20 38 39 20 30 34 20 38 33 20 31 38 20 42 37 20 42 32 20 31 31 20 30 41 20 30 30 20 36 37 20 34 35 20 38 42 20 36 42 20 43 36 20 32 33 20 ",
+  "pdf_version": "1.6",
+  "pdfa_compliance_level": "",
+  "is_encrypted": false,
+  "has_acroform": false,
+  "is_digitally_signed": false,
+  "pdfua_compliance_level": "",
+  "page_count": 2,
+  "has_embedded_files": false,
+  "is_certified": false,
+  "is_XFA": false,
+  "language": "zh"
+ },
+ "elements": [
+  {
+   "Bounds": [
+    77.02230834960938,
+    750.3889465332031,
+    292.3727722167969,
+    778.1218872070312
+   ],
+   "ClipBounds": [
+    77.02230834960938,
+    750.3889465332031,
+    292.3727722167969,
+    778.1218872070312
+   ],
+   "Font": {
+    "alt_family_name": "Microsoft Ya Hei",
+    "embedded": true,
+    "encoding": "Identity-H",
+    "family_name": "Microsoft Ya Hei",
+    "font_type": "CIDFontType2",
+    "italic": false,
+    "monospaced": false,
+    "name": "MicrosoftYaHei-Bold",
+    "subset": false,
+    "weight": 700
+   },
+   "HasClip": true,
+   "Lang": "zh",
+   "Page": 0,
+   "Path": "//Document/Sect/Title",
+   "Text": "心脏病的种类有哪些？ ",
+   "TextSize": 21.009796142578125,
+   "attributes": {
+    "LineHeight": 25.25,
+    "SpaceAfter": 18
+   }
+  },
+  {
+   "Bounds": [
+    77.02230834960938,
+    437.7456512451172,
+    518.9776611328125,
+    732.6326751708984
+   ],
+   "ClipBounds": [
+    77.02230834960938,
+    437.7456512451172,
+    518.9776611328125,
+    732.6326751708984
+   ],
+   "Page": 0,
+   "Path": "//Document/Sect/Figure",
+   "attributes": {
+    "BBox": [
+     77.03689999999915,
+     437.775999999998,
+     518.9789999999921,
+     732.6039999999921
+    ],
+    "Placement": "Block"
+   },
+   "filePaths": [
+    "figures/fileoutpart0.png"
+   ]
+  },
+  {
+   "Bounds": [
+    77.02230834960938,
+    411.4234619140625,
+    464.2029266357422,
+    426.9226989746094
+   ],
+   "ClipBounds": [
+    77.02230834960938,
+    411.4234619140625,
+    464.2029266357422,
+    426.9226989746094
+   ],
+   "Font": {
+    "alt_family_name": "Microsoft Ya Hei",
+    "embedded": true,
+    "encoding": "Identity-H",
+    "family_name": "Microsoft Ya Hei",
+    "font_type": "CIDFontType2",
+    "italic": false,
+    "monospaced": false,
+    "name": "MicrosoftYaHei",
+    "subset": false,
+    "weight": 400
+   },
+   "HasClip": true,
+   "Lang": "zh",
+   "Page": 0,
+   "Path": "//Document/Sect/P",
+   "Text": "心脏病主要有以下八个种类，且不同心脏病之间症状与起因也各不相同。 ",
+   "TextSize": 12.005599975585938,
+   "attributes": {
+    "LineHeight": 14.375,
+    "SpaceAfter": 14.125
+   }
+  },
+  {
+   "Bounds": [
+    77.02230834960938,
+    382.71807861328125,
+    195.06137084960938,
+    398.553466796875
+   ],
+   "ClipBounds": [
+    77.02230834960938,
+    382.71807861328125,
+    195.06137084960938,
+    398.553466796875
+   ],
+   "Font": {
+    "alt_family_name": "Open Sans",
+    "embedded": true,
+    "encoding": "Identity-H",
+    "family_name": "Open Sans",
+    "font_type": "CIDFontType2",
+    "italic": false,
+    "monospaced": false,
+    "name": "OpenSans",
+    "subset": false,
+    "weight": 400
+   },
+   "HasClip": true,
+   "Lang": "zh",
+   "Page": 0,
+   "Path": "//Document/Sect/P[2]",
+   "Text": "1、 风湿性心瓣膜病：",
+   "TextSize": 12.005599975585938,
+   "attributes": {
+    "LineHeight": 14.375,
+    "SpaceAfter": 9
+   }
+  },
+  {
+   "Bounds": [
+    77.02230834960938,
+    336.39451599121094,
+    509.22393798828125,
+    370.64649963378906
+   ],
+   "ClipBounds": [
+    77.02230834960938,
+    336.39451599121094,
+    509.22393798828125,
+    370.64649963378906
+   ],
+   "Font": {
+    "alt_family_name": "Microsoft Ya Hei",
+    "embedded": true,
+    "encoding": "Identity-H",
+    "family_name": "Microsoft Ya Hei",
+    "font_type": "CIDFontType2",
+    "italic": false,
+    "monospaced": false,
+    "name": "MicrosoftYaHei",
+    "subset": false,
+    "weight": 400
+   },
+   "HasClip": true,
+   "Lang": "zh",
+   "Page": 0,
+   "Path": "//Document/Sect/P[3]",
+   "Text": "也称慢性风湿性心脏病，是指急性风湿性心脏炎后所遗留下来的以心脏各瓣膜病变为主的一种心脏病。 ",
+   "TextSize": 12.005599975585938,
+   "attributes": {
+    "SpaceAfter": 14.125
+   }
+  },
+  {
+   "Bounds": [
+    77.02230834960938,
+    307.6832733154297,
+    171.0501708984375,
+    323.51866149902344
+   ],
+   "ClipBounds": [
+    77.02230834960938,
+    307.6832733154297,
+    171.0501708984375,
+    323.51866149902344
+   ],
+   "Font": {
+    "alt_family_name": "Open Sans",
+    "embedded": true,
+    "encoding": "Identity-H",
+    "family_name": "Open Sans",
+    "font_type": "CIDFontType2",
+    "italic": false,
+    "monospaced": false,
+    "name": "OpenSans",
+    "subset": false,
+    "weight": 400
+   },
+   "HasClip": true,
+   "Page": 0,
+   "Path": "//Document/Sect/L/LI/LBody",
+   "Text": "2、 先天性心脏：",
+   "TextSize": 12.005599975585938
+  },
+  {
+   "Bounds": [
+    77.02230834960938,
+    279.362060546875,
+    392.16932678222656,
+    294.8612823486328
+   ],
+   "ClipBounds": [
+    77.02230834960938,
+    279.362060546875,
+    392.16932678222656,
+    294.8612823486328
+   ],
+   "Font": {
+    "alt_family_name": "Microsoft Ya Hei",
+    "embedded": true,
+    "encoding": "Identity-H",
+    "family_name": "Microsoft Ya Hei",
+    "font_type": "CIDFontType2",
+    "italic": false,
+    "monospaced": false,
+    "name": "MicrosoftYaHei",
+    "subset": false,
+    "weight": 400
+   },
+   "HasClip": true,
+   "Lang": "zh",
+   "Page": 0,
+   "Path": "//Document/Sect/P[4]",
+   "Text": "一些染色体异常的疾病常伴有先天性心脏病，家族遗传史。 ",
+   "TextSize": 12.005599975585938,
+   "attributes": {
+    "LineHeight": 14.375,
+    "SpaceAfter": 14.125
+   }
+  },
+  {
+   "Bounds": [
+    77.02230834960938,
+    250.65676879882812,
+    147.03897094726562,
+    266.4921569824219
+   ],
+   "ClipBounds": [
+    77.02230834960938,
+    250.65676879882812,
+    147.03897094726562,
+    266.4921569824219
+   ],
+   "Font": {
+    "alt_family_name": "Open Sans",
+    "embedded": true,
+    "encoding": "Identity-H",
+    "family_name": "Open Sans",
+    "font_type": "CIDFontType2",
+    "italic": false,
+    "monospaced": false,
+    "name": "OpenSans",
+    "subset": false,
+    "weight": 400
+   },
+   "HasClip": true,
+   "Page": 0,
+   "Path": "//Document/Sect/L[2]/LI/LBody",
+   "Text": "3、 冠心病：",
+   "TextSize": 12.005599975585938
+  },
+  {
+   "Bounds": [
+    77.02230834960938,
+    165.88522338867188,
+    518.8044891357422,
+    237.83477783203125
+   ],
+   "ClipBounds": [
+    77.02230834960938,
+    165.88522338867188,
+    518.8044891357422,
+    237.83477783203125
+   ],
+   "Font": {
+    "alt_family_name": "Microsoft Ya Hei",
+    "embedded": true,
+    "encoding": "Identity-H",
+    "family_name": "Microsoft Ya Hei",
+    "font_type": "CIDFontType2",
+    "italic": false,
+    "monospaced": false,
+    "name": "MicrosoftYaHei",
+    "subset": false,
+    "weight": 400
+   },
+   "HasClip": true,
+   "Lang": "zh",
+   "Page": 0,
+   "Path": "//Document/Sect/P[5]",
+   "Text": "抽烟及糖尿病、高血压等导致血管硬化狭窄，使血流受阻，易使心肌缺氧而受损。劳累或精神紧张时出现胸骨后或心前区疼痛或紧缩样疼痛;体力活动出现胸闷、心悸、气短;出现与运动有关的头痛、牙痛、腿痛;饱餐、寒冷或看惊险片时胸痛、心悸;平卧时突然胸痛、心悸、呼吸困难;性生活或排便困难时出现心慌、胸闷等不适。 ",
+   "TextSize": 12.005599975585938,
+   "attributes": {
+    "SpaceAfter": 13.25
+   }
+  },
+  {
+   "Bounds": [
+    77.02230834960938,
+    138.10446166992188,
+    179.93431091308594,
+    153.93984985351562
+   ],
+   "ClipBounds": [
+    77.02230834960938,
+    138.10446166992188,
+    179.93431091308594,
+    153.93984985351562
+   ],
+   "Font": {
+    "alt_family_name": "Open Sans",
+    "embedded": true,
+    "encoding": "Identity-H",
+    "family_name": "Open Sans",
+    "font_type": "CIDFontType2",
+    "italic": false,
+    "monospaced": false,
+    "name": "OpenSans",
+    "subset": false,
+    "weight": 400
+   },
+   "HasClip": true,
+   "Page": 0,
+   "Path": "//Document/Sect/L[3]/LI/LBody",
+   "Text": "4、高血压心脏病：",
+   "TextSize": 12.005599975585938
+  },
+  {
+   "Bounds": [
+    77.02230834960938,
+    53.524993896484375,
+    512.4174194335938,
+    125.42654418945312
+   ],
+   "ClipBounds": [
+    77.02230834960938,
+    53.524993896484375,
+    512.4174194335938,
+    125.42654418945312
+   ],
+   "Font": {
+    "alt_family_name": "Microsoft Ya Hei",
+    "embedded": true,
+    "encoding": "Identity-H",
+    "family_name": "Microsoft Ya Hei",
+    "font_type": "CIDFontType2",
+    "italic": false,
+    "monospaced": false,
+    "name": "MicrosoftYaHei",
+    "subset": false,
+    "weight": 400
+   },
+   "HasClip": true,
+   "Lang": "zh",
+   "Page": 0,
+   "Path": "//Document/Sect/P[6]",
+   "Text": "动脉性高血压会导致左心室肥大;肺高压症会导致右心室肥大。因代偿而逐渐肥厚、扩张，心肌耗氧增加，心肌重量增加，但无相应的供血增加。同时，高血压损害冠状动脉血管，发生粥样硬化，使供应心肌的血液减少。两者联合作用，会导致心律紊乱、心绞痛、心肌梗死、心力衰竭等。",
+   "TextSize": 12.005599975585938
+  },
+  {
+   "Bounds": [
+    77.02230834960938,
+    796.1602020263672,
+    179.93431091308594,
+    811.9955902099609
+   ],
+   "ClipBounds": [
+    77.02230834960938,
+    796.1602020263672,
+    179.93431091308594,
+    811.9955902099609
+   ],
+   "Font": {
+    "alt_family_name": "Open Sans",
+    "embedded": true,
+    "encoding": "Identity-H",
+    "family_name": "Open Sans",
+    "font_type": "CIDFontType2",
+    "italic": false,
+    "monospaced": false,
+    "name": "OpenSans",
+    "subset": false,
+    "weight": 400
+   },
+   "HasClip": true,
+   "Page": 1,
+   "Path": "//Document/Sect/L[4]/LI/LBody",
+   "Text": "5、风湿性心脏病：",
+   "TextSize": 12.005599975585938
+  },
+  {
+   "Bounds": [
+    77.02230834960938,
+    692.8280944824219,
+    509.22393798828125,
+    783.3383178710938
+   ],
+   "ClipBounds": [
+    77.02230834960938,
+    692.8280944824219,
+    509.22393798828125,
+    783.3383178710938
+   ],
+   "Font": {
+    "alt_family_name": "Microsoft Ya Hei",
+    "embedded": true,
+    "encoding": "Identity-H",
+    "family_name": "Microsoft Ya Hei",
+    "font_type": "CIDFontType2",
+    "italic": false,
+    "monospaced": false,
+    "name": "MicrosoftYaHei",
+    "subset": false,
+    "weight": 400
+   },
+   "HasClip": true,
+   "Lang": "zh",
+   "Page": 1,
+   "Path": "//Document/Sect/P[7]",
+   "Text": "风湿性心瓣膜病也称慢性风湿性心脏病，是指急性风湿性心脏炎后所遗留下来的以心脏各瓣膜病变为主的一种心脏病。心悸气短，活动后喘促、疲劳，乏力，咯血等左心功能不全。重者出现头昏，心绞痛，心律失常，甚至晕厥，猝死。晚期出现呼吸困难、咳嗽、咯血等左心功能不全症状，体征为主动瓣区听到响亮粗糙的吹风样收缩期杂音，向颈部传导，并伴有收缩期震颤等。 ",
+   "TextSize": 12.005599975585938,
+   "attributes": {
+    "SpaceAfter": 14.125
+   }
+  },
+  {
+   "Bounds": [
+    77.02230834960938,
+    664.0988922119141,
+    183.05577087402344,
+    679.9342803955078
+   ],
+   "ClipBounds": [
+    77.02230834960938,
+    664.0988922119141,
+    183.05577087402344,
+    679.9342803955078
+   ],
+   "Font": {
+    "alt_family_name": "Open Sans",
+    "embedded": true,
+    "encoding": "Identity-H",
+    "family_name": "Open Sans",
+    "font_type": "CIDFontType2",
+    "italic": false,
+    "monospaced": false,
+    "name": "OpenSans",
+    "subset": false,
+    "weight": 400
+   },
+   "HasClip": true,
+   "Page": 1,
+   "Path": "//Document/Sect/L[5]/LI/LBody",
+   "Text": "6、 肺源性心脏病：",
+   "TextSize": 12.005599975585938
+  },
+  {
+   "Bounds": [
+    77.02230834960938,
+    580.2698364257812,
+    509.22393798828125,
+    652.0273132324219
+   ],
+   "ClipBounds": [
+    77.02230834960938,
+    580.2698364257812,
+    509.22393798828125,
+    652.0273132324219
+   ],
+   "Font": {
+    "alt_family_name": "Microsoft Ya Hei",
+    "embedded": true,
+    "encoding": "Identity-H",
+    "family_name": "Microsoft Ya Hei",
+    "font_type": "CIDFontType2",
+    "italic": false,
+    "monospaced": false,
+    "name": "MicrosoftYaHei",
+    "subset": false,
+    "weight": 400
+   },
+   "HasClip": true,
+   "Lang": "zh",
+   "Page": 1,
+   "Path": "//Document/Sect/P[8]",
+   "Text": "简称肺心病，是由于各种胸肺及支气管病变而继发的肺动脉高压，最后导致以右室肥大为特点的心脏病。大多数肺心病是从慢性支气管炎、阻塞性肺气肿发展而来，少部分与支气管哮喘、肺结核、支气管扩张有关。肺源性心脏病常年存在，多于冬春季节并发呼吸道感染而导致呼吸衰竭和心力衰竭，病死率较高。 ",
+   "TextSize": 12.005599975585938,
+   "attributes": {
+    "SpaceAfter": 14.125
+   }
+  },
+  {
+   "Bounds": [
+    77.02230834960938,
+    551.5465850830078,
+    255.08937072753906,
+    567.3819732666016
+   ],
+   "ClipBounds": [
+    77.02230834960938,
+    551.5465850830078,
+    255.08937072753906,
+    567.3819732666016
+   ],
+   "Font": {
+    "alt_family_name": "Open Sans",
+    "embedded": true,
+    "encoding": "Identity-H",
+    "family_name": "Open Sans",
+    "font_type": "CIDFontType2",
+    "italic": false,
+    "monospaced": false,
+    "name": "OpenSans",
+    "subset": false,
+    "weight": 400
+   },
+   "HasClip": true,
+   "Page": 1,
+   "Path": "//Document/Sect/L[6]/LI/LBody",
+   "Text": "7、 心肌、心脏肿瘤及血管病变：",
+   "TextSize": 12.005599975585938
+  },
+  {
+   "Bounds": [
+    77.02230834960938,
+    485.7198791503906,
+    509.22393798828125,
+    538.724609375
+   ],
+   "ClipBounds": [
+    77.02230834960938,
+    485.7198791503906,
+    509.22393798828125,
+    538.724609375
+   ],
+   "Font": {
+    "alt_family_name": "Microsoft Ya Hei",
+    "embedded": true,
+    "encoding": "Identity-H",
+    "family_name": "Microsoft Ya Hei",
+    "font_type": "CIDFontType2",
+    "italic": false,
+    "monospaced": false,
+    "name": "MicrosoftYaHei",
+    "subset": false,
+    "weight": 400
+   },
+   "HasClip": true,
+   "Lang": "zh",
+   "Page": 1,
+   "Path": "//Document/Sect/P[9]",
+   "Text": "心脏肿瘤大多为良性肿瘤，以黏液瘤为最常见，原发性心脏恶性肿瘤很少见。血管病变包括高血压引起之动脉瘤，以及其他免疫机能异常引起之血管病变等。多见于老年性心脏病。 ",
+   "TextSize": 12.005599975585938,
+   "attributes": {
+    "SpaceAfter": 14.125
+   }
+  },
+  {
+   "Bounds": [
+    77.02230834960938,
+    457.002685546875,
+    179.93431091308594,
+    472.83807373046875
+   ],
+   "ClipBounds": [
+    77.02230834960938,
+    457.002685546875,
+    179.93431091308594,
+    472.83807373046875
+   ],
+   "Font": {
+    "alt_family_name": "Open Sans",
+    "embedded": true,
+    "encoding": "Identity-H",
+    "family_name": "Open Sans",
+    "font_type": "CIDFontType2",
+    "italic": false,
+    "monospaced": false,
+    "name": "OpenSans",
+    "subset": false,
+    "weight": 400
+   },
+   "HasClip": true,
+   "Page": 1,
+   "Path": "//Document/Sect/L[7]/LI/LBody",
+   "Text": "8、扩张性心脏病：",
+   "TextSize": 12.005599975585938
+  },
+  {
+   "Bounds": [
+    77.02230834960938,
+    409.92872619628906,
+    509.22393798828125,
+    444.1806945800781
+   ],
+   "ClipBounds": [
+    77.02230834960938,
+    409.92872619628906,
+    509.22393798828125,
+    444.1806945800781
+   ],
+   "Font": {
+    "alt_family_name": "Microsoft Ya Hei",
+    "embedded": true,
+    "encoding": "Identity-H",
+    "family_name": "Microsoft Ya Hei",
+    "font_type": "CIDFontType2",
+    "italic": false,
+    "monospaced": false,
+    "name": "MicrosoftYaHei",
+    "subset": false,
+    "weight": 400
+   },
+   "HasClip": true,
+   "Lang": "zh",
+   "Page": 1,
+   "Path": "//Document/Sect/P[10]",
+   "Text": "扩张型心肌病的大部分患者不能找到明确的发病原因，属于特发性，另一部分患者的发病与病毒感染、自身免疫反应、饮酒、中毒、家族遗传因素等有关。",
+   "TextSize": 12.005599975585938
+  }
+ ],
+ "pages": [
+  {
+   "boxes": {
+    "CropBox": [
+     0.0,
+     0.0,
+     594.9599609375,
+     841.9199829101562
+    ],
+    "MediaBox": [
+     0.0,
+     0.0,
+     594.9599609375,
+     841.9199829101562
+    ]
+   },
+   "height": 841.9199829101562,
+   "is_scanned": false,
+   "page_number": 0,
+   "rotation": 0,
+   "width": 594.9599609375
+  },
+  {
+   "boxes": {
+    "CropBox": [
+     0.0,
+     0.0,
+     594.9599609375,
+     841.9199829101562
+    ],
+    "MediaBox": [
+     0.0,
+     0.0,
+     594.9599609375,
+     841.9199829101562
+    ]
+   },
+   "height": 841.9199829101562,
+   "is_scanned": false,
+   "page_number": 1,
+   "rotation": 0,
+   "width": 594.9599609375
+  }
+ ]
+}

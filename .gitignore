@@ -1,0 +1,9 @@
+.idea
+*.pdf
+*.zip
+/books/graduate/dar/licence/*
+/node_modules
+/appfront/node_modules
+/books/graduate/util/*
+*/__pycache__/
+*.weights
